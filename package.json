@@ -1,0 +1,25 @@
+{
+  "name": "grathite-js-footer",
+  "version": "0.1.0",
+  "description": "Allows a dynamic footer to be generated for JS applications with updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njb1286/grathite-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Grathite500 <bennionnj@gmail.com> (http://www.grathite.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njb1286/grathite-js-footer/issues"
+  },
+  "homepage": "https://github.com/njb1286/grathite-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
